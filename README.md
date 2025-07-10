@@ -1,5 +1,3 @@
-AI Income Predictor
-
 🧩 Introduction
 
 AI Income Predictor is a machine learning-powered desktop app that predicts whether a user's income is likely to be <= $50K or > $50K per year based on demographic and socio-economic inputs. It offers insightful recommendations and visualizations to help users understand and potentially improve their income profile.
@@ -23,7 +21,7 @@ AI Income Predictor is a machine learning-powered desktop app that predicts whet
 
 ⚙️ Installation
 
-1. Clone the repo: git clone https://github.com/your-username/AI-Income-Predictor.git
+1. Clone the repo: git clone https://github.com/chumarhassan/AI-Income-Predictor.git
 2. Create and activate virtual environment
 3. Install packages: pandas, numpy, scikit-learn, matplotlib, seaborn
 4. Download and place adult.csv in project root
@@ -44,7 +42,7 @@ Run: python income_predictor.py
 
 📊 Data Source
 
-Uses the Adult Income Dataset from the UCI ML Repository: https://archive.ics.uci.edu/ml/datasets/Adult
+Uses the Adult Income Dataset from the Kaggle.
 
 📉 Visualizations
 
@@ -76,9 +74,6 @@ Uses the Adult Income Dataset from the UCI ML Repository: https://archive.ics.uc
 3. Commit: git commit -m "Add feature"
 4. Push and open Pull Request
 
-📄 License
-
-MIT License
 
 📬 Contact
 
