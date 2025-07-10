@@ -38,7 +38,7 @@ Run: python income_predictor.py
 - adult.csv: dataset
 - income_model.pkl: trained model
 - prediction_history.csv: local prediction logs
-- income_predictor.py: main application script
+- main.py: main application script
 
 📊 Data Source
 
