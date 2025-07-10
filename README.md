@@ -1,3 +1,4 @@
+AI Income Predictor - README
 📌 Table of Contents
 
 1. Introduction
@@ -11,7 +12,8 @@
 9. Limitations
 10. Future Enhancements
 11. Contributing
-12. Contact
+12. License
+13. Contact
 
 🧩 Introduction
 
@@ -53,7 +55,7 @@ Run: python income_predictor.py
 - adult.csv: dataset
 - income_model.pkl: trained model
 - prediction_history.csv: local prediction logs
-- main.py: main application script
+- income_predictor.py: main application script
 
 📊 Data Source
 
@@ -88,6 +90,10 @@ Uses the Adult Income Dataset from the UCI ML Repository: https://archive.ics.uc
 2. Create branch: git checkout -b feature/YourFeatureName
 3. Commit: git commit -m "Add feature"
 4. Push and open Pull Request
+
+📄 License
+
+MIT License
 
 📬 Contact
 
