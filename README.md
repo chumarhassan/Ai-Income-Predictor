@@ -72,30 +72,24 @@ source venv/bin/activate
 Install dependencies
 pip install pandas numpy scikit-learn matplotlib seaborn
 Add Dataset
-
 Download adult.csv from UCI Repository
-
 Place it in the project root directory
-
 🚀 Usage
 python income_predictor.py  # or the name of your main file
 🖱️ In-App Flow
 Fill out the form with your demographic details
-
 Click "Predict My Income"
-
 View your predicted bracket, confidence, and estimated income
-
 Click "AI Recommendations" for personalized advice
-
 View model performance through visualizations
-
 📁 Project Structure
+
 AI-Income-Predictor/
 ├── adult.csv               # Dataset
 ├── income_model.pkl        # Trained ML model
 ├── prediction_history.csv  # Log of predictions
 └── main.py     # Main app file
+
 📊 Data Source
 This app uses the Adult Income Dataset from the Kaggle, originally extracted from the 1994 US Census database.
 
